@@ -14,3 +14,5 @@ eight edit - 9
 ninth edit  - 8
 tenth edit - 7
 eleventh edit - 3
+
+<img width="675" alt="commmit_graph" src="https://user-images.githubusercontent.com/70309623/217065792-e84ca3cc-1a1c-4a05-91b6-ceb6e7100232.png">

@@ -16,4 +16,4 @@ tenth edit - 7
 eleventh edit - 3
 
 
-![commmit_graph.png](https://github.com/Rishiii7/Trying-Git/commmit_graph.png)
+![commmit_graph.png](https://github.com/Rishiii7/Trying-Git/blob/main/commmit_graph.png)
